@@ -432,3 +432,4 @@ C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan 
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Release\net8.0\linux-x64\Titan Biometric.pdb
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Release\net8.0\linux-x64\Titan Biometric.genruntimeconfig.cache
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Release\net8.0\linux-x64\ref\Titan Biometric.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\appsettings.docker.json

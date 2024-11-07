@@ -1,5 +1,6 @@
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\Titan Biometric
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\appsettings.docker.json
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\appsettings.json
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\Titan Biometric.dll
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Release\net8.0\linux-x64\publish\Titan Biometric.runtimeconfig.json

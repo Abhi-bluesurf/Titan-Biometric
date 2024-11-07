@@ -3,8 +3,8 @@ version: '3.8'
 name: biometric-crud
 services:
     api:
-        container_name: biometric_api
-        image: biometric_api:latest
+        container_name: titan-biometric
+        image: titan-biometric:latest
         environment:
             - ASPNETCORE_ENVIRONMENT=docker
             - ASPNETCORE_URLS=http://+:80
