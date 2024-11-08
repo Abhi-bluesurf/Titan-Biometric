@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Configure DbContext with PostgreSQL
 builder.Services.AddDbContext<EF_DataContext>(p => p.UseNpgsql
-                (builder.Configuration.GetConnectionString("EF_Postgres_Db")));
+                (builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configure Identity
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
@@ -44,7 +44,7 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 
-//app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 
 app.UseAuthentication();
 
