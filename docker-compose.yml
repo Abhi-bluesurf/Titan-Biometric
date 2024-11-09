@@ -17,9 +17,8 @@ services:
     container_name: postgres
     image: postgres:17-alpine
     environment:
-      - POSTGRES_DB=Biometric_Signals
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=.,.
+      - POSTGRES_PASSWORD=postgres
     ports:
       - 5432:5432
     volumes:
