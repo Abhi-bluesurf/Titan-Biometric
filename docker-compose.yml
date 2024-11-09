@@ -1,28 +1,35 @@
-version: '3.4'
-
+version: '3.8'
+name: titan-biometric
 services:
-  titanbiometric.api:
+  api:
+    container_name: titan-biometric
     image: titan-biometric:latest
-    container_name: titanbiometric.api
     environment:
       - ASPNETCORE_ENVIRONMENT=docker
       - ASPNETCORE_URLS=http://+:80
     ports:
-      - 80:80
+      - 8080:8080
     depends_on:
         postgres:
             condition: service_healthy
   
-  titanbiometric.db:
-    image: postgres:latest
-    container_name: titanbiometric.db
+  postgres:
+    container_name: postgres
+    image: postgres:17-alpine
     environment:
       - POSTGRES_DB=Biometric_Signals
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=.,.
-    volumes:
-      - ./.containers/titanbiometric-db:/var/lib/postgresql/data
     ports:
       - 5432:5432
+    volumes:
+      - postgres-data:/data/db
+    healthcheck:
+      test: ["CMD-SHELL","pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+volumes:
+  postgres-data:
 
   
