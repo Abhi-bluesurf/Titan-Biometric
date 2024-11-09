@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Titan Biometric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+973fce826358a7abe117203acbf375d13a7e2b25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbf52529f6801098358e92118e791617de7892f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Titan Biometric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Titan Biometric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

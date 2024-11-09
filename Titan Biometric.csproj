@@ -25,10 +25,4 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="docker-compose.override.yml">
-      <DependentUpon>docker-compose.yml</DependentUpon>
-    </None>
-  </ItemGroup>
-
 </Project>
