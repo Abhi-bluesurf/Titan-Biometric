@@ -9,7 +9,7 @@
   <PropertyGroup>
     <ContainerRepository>titan-biometric</ContainerRepository>
     <ContainerImageTags>latest</ContainerImageTags>
-    <PublishProfile>DefaultContainer</PublishProfile>
+    <!--<PublishProfile>DefaultContainer</PublishProfile>-->
   </PropertyGroup>
 
   <ItemGroup>
