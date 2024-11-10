@@ -12,8 +12,8 @@ using Titan_Biometric.EFCore;
 namespace Titan_Biometric.Migrations
 {
     [DbContext(typeof(EF_DataContext))]
-    [Migration("20241106101016_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20241110200555_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
