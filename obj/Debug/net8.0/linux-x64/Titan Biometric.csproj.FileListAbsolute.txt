@@ -114,3 +114,8 @@ C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan 
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Debug\net8.0\linux-x64\Titan Biometric.pdb
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Debug\net8.0\linux-x64\Titan Biometric.genruntimeconfig.cache
 C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\obj\Debug\net8.0\linux-x64\ref\Titan Biometric.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Projects\Work\Web Apps\Titan\Biomatric Signals Web API\Titan Biometric\Titan Biometric\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
