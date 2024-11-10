@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IPnE4aL0qdI=",
+  "dgSpecHash": "XhwCDxrx8c4=",
   "success": true,
   "projectFilePath": "C:\\Projects\\Work\\Web Apps\\Titan\\Biomatric Signals Web API\\Titan Biometric\\Titan Biometric\\Titan Biometric.csproj",
   "expectedPackageFiles": [
@@ -55,7 +55,8 @@
     "C:\\Users\\Dell\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.7\\microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }
