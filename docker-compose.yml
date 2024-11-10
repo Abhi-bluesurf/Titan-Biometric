@@ -6,7 +6,7 @@ services:
     image: titan-biometric:latest
     environment:
       - ASPNETCORE_ENVIRONMENT=docker
-      - ASPNETCORE_URLS=http://+:80
+      - ASPNETCORE_URLS=http://+:8080
     ports:
       - 8080:8080
     depends_on:
