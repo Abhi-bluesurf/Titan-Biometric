@@ -12,8 +12,6 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
           "Microsoft.IdentityModel.Tokens": "8.2.0",
-          "Microsoft.NET.Build.Containers": "8.0.403",
-          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.10",
           "System.IdentityModel.Tokens.Jwt": "8.2.0"
         },
@@ -545,8 +543,6 @@
           }
         }
       },
-      "Microsoft.NET.Build.Containers/8.0.403": {},
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {},
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
@@ -940,20 +936,6 @@
       "sha512": "sha512-/I+6D3SwW8hQh5wznGzQCrS4L5y5Re/0AEKKfXXAduWzz4WKqJzY8RmjwZ6W66bIFUhPrqOy6zsLKPik4Ppnbw==",
       "path": "microsoft.identitymodel.tokens/8.2.0",
       "hashPath": "microsoft.identitymodel.tokens.8.2.0.nupkg.sha512"
-    },
-    "Microsoft.NET.Build.Containers/8.0.403": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-fMD4J5TGvPGqeB5OSXGm6bcQwH3G3t3T7Hbe4RWgO0sev2CptbMkIUHdPQ+xyoUqkTRgNhEfqo8MR7LOqTZO9g==",
-      "path": "microsoft.net.build.containers/8.0.403",
-      "hashPath": "microsoft.net.build.containers.8.0.403.nupkg.sha512"
-    },
-    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-8NudeHOE56YsY59HYY89akRMup8Ho+7Y3cADTGjajjWroXVU9RQai2nA6PfteB8AuzmRHZ5NZQB2BnWhQEul5g==",
-      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.21.0",
-      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
     },
     "Mono.TextTemplating/2.2.1": {
       "type": "package",
